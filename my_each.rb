@@ -5,4 +5,4 @@ def my_each(array,x)
   end
 end
 
-my_each(word)
+my_each(words,word)
