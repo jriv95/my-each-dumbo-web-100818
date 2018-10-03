@@ -1,7 +1,7 @@
 def my_each(x)
   x = 0
   while x < array.length
-    puts "#{word}"
+    array.each 
   end
 end
 
