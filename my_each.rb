@@ -4,3 +4,7 @@ def my_each (words)
     "x is cool"
   end
 end
+
+def my_each (words) do |word|
+  puts word
+end
