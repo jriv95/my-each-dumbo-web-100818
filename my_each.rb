@@ -1,4 +1,4 @@
-def my_each(array,word)
+def my_each(x)
   x = 0
   while x < array.length
     puts "#{word}"
