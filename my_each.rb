@@ -5,5 +5,3 @@ def my_each(array)
     x += 1
   end
 end
-
-puts my_each(word)
