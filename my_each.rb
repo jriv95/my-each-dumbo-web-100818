@@ -3,5 +3,6 @@ def my_each(x)
   while x < array.length
     "#{x}"
   end
-
 end
+
+my_each
