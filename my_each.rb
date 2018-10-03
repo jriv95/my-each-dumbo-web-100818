@@ -3,9 +3,9 @@ def my_each (words)
   while x < array.length
     "x is cool"
   end
+
 end
 
-def my_each (words) do |word|
+my_each (words) do |word|
   puts word
-end
 end
