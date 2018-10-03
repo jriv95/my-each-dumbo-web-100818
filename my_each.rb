@@ -1,4 +1,4 @@
-def my_each(x)
+def my_each(array,x)
   x = 0
   while x < array.length
     "#{x}"
