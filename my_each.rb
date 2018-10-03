@@ -4,5 +4,4 @@ def my_each(array)
     "#{array.collect}"
     x += 1
   end
-  return my_each
 end
