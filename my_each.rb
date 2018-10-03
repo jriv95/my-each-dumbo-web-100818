@@ -5,3 +5,5 @@ def my_each(x)
     x += 1
   end
 end
+
+my_each(words)
